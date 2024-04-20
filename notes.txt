@@ -1,0 +1,4 @@
+**JSONB**
+1. typeorm jsonb sample: https://rahulthinking9.medium.com/how-to-query-jsonb-using-typeorm-and-postgresql-37ff7f1a3ea1
+2. issue how to use jsonb jsonb_array_elements in typeorm: https://github.com/typeorm/typeorm/issues/7303
+
